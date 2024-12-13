@@ -121,7 +121,7 @@ I’m a **Fullstack Software Developer** specializing in the **MERN Stack**. Wit
   <ul class="space-y-3">
     <li><strong>💻 <span class="font-semibold">OS:</span> Mac M3, Windows 11</li>
     <li><strong>🖥️ <span class="font-semibold">Laptop:</span> MacBook Air M1</li>
-    <li><strong>🖱️ <span class="font-semibold">PC:</span> AMD Ryzen 2400G</li>
+    <li><strong>🖱️ <span class="font-semibold">PC:</span> AMD Ryzen 5 2400G</li>
     <li><strong>🌐 <span class="font-semibold">Browser:</span> Brave Web Browser</li>
     <li><strong>📝 <span class="font-semibold">Code Editor:</span> VSCode - The Best Editor Out There</li>
   </ul>
