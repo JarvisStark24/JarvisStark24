@@ -113,6 +113,24 @@ I’m a **Fullstack Software Developer** specializing in the **MERN Stack**. Wit
   </a>
 </div>
 
+<div>
+  <a href="https://github.com/JarvisStark24">
+    <img src="https://img.shields.io/badge/-GitHub-24292F?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+  </a>
+  <h3 class="font-bold text-2xl text-gray-800 my-4">⚙️ My Tech Arsenal & Tools for Success</h3>
+  <ul class="space-y-3">
+    <li><strong>💻 <span class="font-semibold">OS:</span> Mac M3, Windows 11</li>
+    <li><strong>🖥️ <span class="font-semibold">Laptop:</span> MacBook Air M1</li>
+    <li><strong>🖱️ <span class="font-semibold">PC:</span> AMD Ryzen 2400G</li>
+    <li><strong>🌐 <span class="font-semibold">Browser:</span> Brave Web Browser</li>
+    <li><strong>📝 <span class="font-semibold">Code Editor:</span> VSCode - The Best Editor Out There</li>
+  </ul>
+  <h3 class="font-bold text-2xl text-gray-800 my-4">🏆 GitHub Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=JarvisStark24&theme=onedark" alt="GitHub Trophies"/>
+</div>
+
+
+
 
 ## ✨ Fun Fact  
 
