@@ -108,7 +108,7 @@ I’m a **Fullstack Software Developer** specializing in the **MERN Stack**. Wit
   <a href="https://www.instagram.com/code_with.jarvis/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
-  <a href="https://x.com/home">
+  <a href="https://x.com/MeJarvis_7">
     <img src="https://img.shields.io/badge/-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="X"/>
   </a>
 </div>
