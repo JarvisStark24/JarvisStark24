@@ -96,6 +96,9 @@ I’m a **Fullstack Software Developer** specializing in the **MERN Stack**. Wit
 ## 📫 Let's Connect  
 
 <div>
+  <a href="https://portfolio-18md.onrender.com/">
+  <img src="https://img.shields.io/badge/-Portfolio-4CAF50?logo=cloudsmith&logoColor=white&style=for-the-badge" alt="Portfolio"/>
+</a>
   <a href="mailto:codewithjarvis.24@gmail.com">
     <img src="https://img.shields.io/badge/-Email-232F3E?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
