@@ -128,13 +128,13 @@ I’m a **Fullstack Software Developer** specializing in the **MERN Stack**. Wit
     <li><strong>🌐 <span class="font-semibold">Browser:</span> Brave Web Browser</li>
     <li><strong>📝 <span class="font-semibold">Code Editor:</span> VSCode - The Best Editor Out There</li>
   </ul>
-  <h3 class="font-bold text-2xl text-gray-800 my-4">🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=JarvisStark24&theme=onedark" alt="GitHub Trophies"/>
+  <h3 class="font-bold text-2xl text-gray-800 my-4">🔧 Current Projects:</h3>
+  <ul class="space-y-3">
+    <li>📊 **Pharmaceutical CRM**: A sleek web app to track sales and marketing.</li>
+    <li>🎮 **Game App**: Developing an interactive game on Unity3D.</li>
+  </ul>
 </div>
 
+---
 
-
-
-## ✨ Fun Fact  
-
-💡 I love solving complex problems, experimenting with new technologies, and drinking coffee while coding! ☕ 
+# Let's build something amazing together! 💻✨
