@@ -86,12 +86,11 @@ I’m a **Fullstack Software Developer** specializing in the **MERN Stack**. Wit
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JarvisStark24&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarvisStark24&layout=compact&theme=radical" alt="Most Used Languages" width="49%"/>
-</div>  
+</div> 
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF" width="30%" style="border-radius: 10px; transform: translateZ(20px); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
-
 
 ## 📫 Let's Connect  
 
